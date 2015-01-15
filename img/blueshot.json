@@ -1,0 +1,30 @@
+{"frames": [
+
+{
+	"filename": "blueShot1.png",
+	"frame": {"x":2,"y":2,"w":10,"h":18},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":10,"h":18},
+	"sourceSize": {"w":10,"h":18},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "blueShot2.png",
+	"frame": {"x":14,"y":2,"w":8,"h":19},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":8,"h":19},
+	"sourceSize": {"w":8,"h":19},
+	"pivot": {"x":0.5,"y":0.5}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "blueshot.png",
+	"format": "RGBA8888",
+	"size": {"w":24,"h":24},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:4c6ea4c24337534187027134997948ee:09f7831463837de1597fe1403841edae:d294220be8f4e40d4030d757fb2c6554$"
+}
+}
